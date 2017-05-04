@@ -13,6 +13,7 @@
 		A0D5394F1EBB1E7B00B3EDC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0D5394D1EBB1E7B00B3EDC0 /* Main.storyboard */; };
 		A0D539511EBB1E7B00B3EDC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0D539501EBB1E7B00B3EDC0 /* Assets.xcassets */; };
 		A0D539541EBB1E7B00B3EDC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0D539521EBB1E7B00B3EDC0 /* LaunchScreen.storyboard */; };
+		A0D5395C1EBB1ECF00B3EDC0 /* ava.png in Resources */ = {isa = PBXBuildFile; fileRef = A0D5395B1EBB1ECF00B3EDC0 /* ava.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A0D539501EBB1E7B00B3EDC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0D539531EBB1E7B00B3EDC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0D539551EBB1E7B00B3EDC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0D5395B1EBB1ECF00B3EDC0 /* ava.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ava.png; path = ../../../../ava.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				A0D539501EBB1E7B00B3EDC0 /* Assets.xcassets */,
 				A0D539521EBB1E7B00B3EDC0 /* LaunchScreen.storyboard */,
 				A0D539551EBB1E7B00B3EDC0 /* Info.plist */,
+				A0D5395B1EBB1ECF00B3EDC0 /* ava.png */,
 				A0D539441EBB1E7B00B3EDC0 /* Supporting Files */,
 			);
 			path = lesson_02_01;
@@ -140,6 +143,7 @@
 			files = (
 				A0D539541EBB1E7B00B3EDC0 /* LaunchScreen.storyboard in Resources */,
 				A0D539511EBB1E7B00B3EDC0 /* Assets.xcassets in Resources */,
+				A0D5395C1EBB1ECF00B3EDC0 /* ava.png in Resources */,
 				A0D5394F1EBB1E7B00B3EDC0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -277,6 +281,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = L44EH4UY83;
 				INFOPLIST_FILE = lesson_02_01/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Anton-Levkin.lesson-02-01";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -289,6 +294,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = L44EH4UY83;
 				INFOPLIST_FILE = lesson_02_01/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Anton-Levkin.lesson-02-01";
 				PRODUCT_NAME = "$(TARGET_NAME)";
